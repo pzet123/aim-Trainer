@@ -4,7 +4,7 @@ an aim trainer made in pygame with 3 different difficulty modes
 The program works by tracking mouse movement and clicks in order to improve/demonstrate your precision with a mouse.
 
 Once opened the program can be started with a mouse click or closed using the red X or pressing the escape key.
-the escape key can be used to exit the program at any moment. 
+The escape key can be used to exit the program at any moment. 
 
 There is a timer which counts down as soon as the difficulty is chosen and it displays the time you have left to
 click on all remaining targets, once you have clicked on all of them the timer will reset and new targets will appear.
